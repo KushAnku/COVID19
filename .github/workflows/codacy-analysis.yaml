@@ -1,5 +1,4 @@
-name: Codacy Analysis CLI
-
+name: Codacy Analysis WorkShop
 on: ["push"]
 
 jobs:
