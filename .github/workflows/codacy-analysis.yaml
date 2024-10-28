@@ -1,4 +1,5 @@
-name: Codacy Analysis WorkShop
+name: Codacy Analysis Workshop_9
+
 on: ["push"]
 
 jobs:
